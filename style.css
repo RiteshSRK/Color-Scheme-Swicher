@@ -1,0 +1,38 @@
+body{
+    text-align: center;
+    color: darkgreen;
+}
+
+#lightblue{
+    height: 100px;
+    width: 100px;
+    background: lightblue;
+}
+
+#gray{
+    height: 100px;
+    width: 100px;
+    background: gray;
+}
+
+#pink{
+    height: 100px;
+    width: 100px;
+    background: pink;
+}
+
+#yellow{
+    height: 100px;
+    width: 100px;
+    background: yellow;
+}
+
+.button{
+    border: 2px solid ;
+    margin: 5px;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+}
